@@ -1,26 +1,22 @@
 store.epicgames.com##.css-a86lbw
 store.epicgames.com##.css-21yi2w
-store.epicgames.com##.css-1mgolpb
 store.epicgames.com##.eds_1cgaabk0.eds_1cgaabk2.eds_1cgaabk8.eds_1cgaabkc.eds_1cgaabk6.eds_1tt68zf0.eds_1tt68zf1.css-13ej073
-store.epicgames.com##.css-1knv3fd > div:nth-of-type(2) > div:nth-of-type(2) > div.css-2scrzp:nth-of-type(4) > div:nth-of-type(1)
-store.epicgames.com##.css-1knv3fd > div:nth-of-type(2) > div:nth-of-type(2) > div.css-2scrzp:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)
+store.epicgames.com##.css-1mgolpb
+store.epicgames.com##div.css-2scrzp:nth-of-type(4) > div:nth-of-type(1)
+store.epicgames.com##div.css-2scrzp:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)
 store.epicgames.com##.eds_1cgaabk0.eds_1cgaabk1.eds_1cgaabka.eds_1cgaabkb.eds_1cgaabk5.eds_1tt68zf0.eds_1tt68zf1.css-6eb22y
 store.epicgames.com##div.css-2scrzp:nth-of-type(7) > div:nth-of-type(1) > .css-73ldi7
 store.epicgames.com##.css-1knv3fd > div:nth-of-type(3) > div:nth-of-type(2) > div.css-2scrzp:nth-of-type(2) > div:nth-of-type(1)
 store.epicgames.com##div.css-2scrzp:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)
-store.epicgames.com##.css-1knv3fd > div:nth-of-type(3) > div:nth-of-type(2) > div.css-2scrzp:nth-of-type(4) > div:nth-of-type(1) > .css-73ldi7
-store.epicgames.com##div.css-2scrzp:nth-of-type(6) > div:nth-of-type(1) > .css-73ldi7
-store.epicgames.com##.css-1knv3fd > div:nth-of-type(3) > div:nth-of-type(2) > div.css-2scrzp:nth-of-type(5) > div:nth-of-type(1) > .css-1hwqkf8 > li.css-1iofq0a:nth-of-type(1)
+store.epicgames.com##li.css-1iofq0a:nth-of-type(1) > .css-1sm2s1z
+store.epicgames.com##li.css-1iofq0a:nth-of-type(1)
 store.epicgames.com##.css-1knv3fd > div:nth-of-type(3) > div:nth-of-type(2) > div.css-2scrzp:nth-of-type(5) > div:nth-of-type(1) > .css-1hwqkf8 > li.css-1iofq0a:nth-of-type(2)
 store.epicgames.com##.css-1knv3fd > div:nth-of-type(3) > div:nth-of-type(2) > div.css-2scrzp:nth-of-type(5) > div:nth-of-type(1) > .css-1hwqkf8 > li.css-1iofq0a:nth-of-type(3)
+store.epicgames.com##div.css-2scrzp:nth-of-type(6) > div:nth-of-type(1) > .css-73ldi7
 store.epicgames.com##.css-1knv3fd > div:nth-of-type(4) > div:nth-of-type(2) > div.css-2scrzp:nth-of-type(1)
-store.epicgames.com##.css-1knv3fd > div:nth-of-type(4) > div:nth-of-type(2) > div.css-2scrzp:nth-of-type(2) > div:nth-of-type(1) > .css-1hwqkf8 > li.css-1iofq0a:nth-of-type(1)
+store.epicgames.com##.css-1knv3fd > div:nth-of-type(4) > div:nth-of-type(2) > div.css-2scrzp:nth-of-type(2) > div:nth-of-type(1) > .css-1hwqkf8 > li.css-1iofq0a:nth-of-type(2) > .css-1sm2s1z
 store.epicgames.com##.css-1knv3fd > div:nth-of-type(4) > div:nth-of-type(2) > div.css-2scrzp:nth-of-type(2) > div:nth-of-type(1) > .css-1hwqkf8 > li.css-1iofq0a:nth-of-type(2)
 store.epicgames.com##.css-1knv3fd > div:nth-of-type(4) > div:nth-of-type(2) > div.css-2scrzp:nth-of-type(2) > div:nth-of-type(1) > .css-1hwqkf8 > li.css-1iofq0a:nth-of-type(3)
-store.epicgames.com##.css-1knv3fd > div:nth-of-type(4) > div:nth-of-type(2) > div.css-2scrzp:nth-of-type(4) > div:nth-of-type(1) > .css-1hwqkf8 > li.css-1iofq0a:nth-of-type(1)
-store.epicgames.com##.css-1knv3fd > div:nth-of-type(4) > div:nth-of-type(2) > div.css-2scrzp:nth-of-type(4) > div:nth-of-type(1) > .css-1hwqkf8 > li.css-1iofq0a:nth-of-type(2)
-store.epicgames.com##.css-1knv3fd > div:nth-of-type(4) > div:nth-of-type(2) > div.css-2scrzp:nth-of-type(4) > div:nth-of-type(1) > .css-1hwqkf8 > li.css-1iofq0a:nth-of-type(3)
-store.epicgames.com##.css-1knv3fd > div:nth-of-type(4) > div:nth-of-type(2)
 store.epicgames.com##.css-1knv3fd > div:nth-of-type(5) > div:nth-of-type(2) > div.css-2scrzp:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)
 store.epicgames.com##.css-1knv3fd > div:nth-of-type(5) > div:nth-of-type(2) > div.css-2scrzp:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)
 store.epicgames.com##.css-1knv3fd > div:nth-of-type(5) > div:nth-of-type(2) > div.css-2scrzp:nth-of-type(3) > div:nth-of-type(1) > .css-73ldi7
